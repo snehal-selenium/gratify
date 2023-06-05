@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="57769" started-at="2023-05-10T20:39:12 IST" finished-at="2023-05-10T20:40:09 IST">
+    <groups>
+    </groups>
+    <test name="Command line test 5efa0fa6-2306-4a03-9138-12b757f45b75" duration-ms="57769" started-at="2023-05-10T20:39:12 IST" finished-at="2023-05-10T20:40:09 IST">
+      <class name="org.testing.testscripts.TC1">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.testscripts.TC1@67b92f0a]" name="BrowserLaunch" is-config="true" duration-ms="20758" started-at="2023-05-10T20:39:12 IST" finished-at="2023-05-10T20:39:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:org.testing.testscripts.TC1@67b92f0a]" name="TestCase1" duration-ms="21157" started-at="2023-05-10T20:39:32 IST" finished-at="2023-05-10T20:39:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:org.testing.testscripts.TC1@67b92f0a]" name="BrowserClose" is-config="true" duration-ms="529" started-at="2023-05-10T20:39:54 IST" finished-at="2023-05-10T20:39:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- org.testing.testscripts.TC1 -->
+      <class name="org.testing.testscripts.TC8">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:org.testing.testscripts.TC8@6c49835d]" name="BrowserLaunch" is-config="true" duration-ms="7786" started-at="2023-05-10T20:39:54 IST" finished-at="2023-05-10T20:40:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="testCase8()[pri:0, instance:org.testing.testscripts.TC8@6c49835d]" name="testCase8" duration-ms="7036" started-at="2023-05-10T20:40:02 IST" finished-at="2023-05-10T20:40:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:org.testing.testscripts.TC8@6c49835d]" name="BrowserClose" is-config="true" duration-ms="403" started-at="2023-05-10T20:40:09 IST" finished-at="2023-05-10T20:40:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- org.testing.testscripts.TC8 -->
+    </test> <!-- Command line test 5efa0fa6-2306-4a03-9138-12b757f45b75 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
